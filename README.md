@@ -1,19 +1,22 @@
 <div align="center">
-<h1 align="center">Hola, soy Ricardo Martinez</a> 👋</h1>
+<h1 align="center">Hello, I am Ricardo Martinez</a> 👋</h1>
 </div>
-<img src="[https://imgur.com/a/5er8MT8.png">
+<img src="https://imgur.com/yS70xZM.png">
 
-<!--
-**Rik4rd0/Rik4rd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - 🔭 Currently working on: developing backend solutions using Go and PostgreSQL. Also exploring hexagonal architectures and best development practices.
+
+   - 🌱 Currently learning: to program efficiently, applying best development practices, code optimization, and clean code principles.
+
+   - 👯 Looking to collaborate on: software projects requiring best practices, microservices, and agile development using methodologies such as Scrum.
+
+   - 🤔 Looking for help with: advanced continuous integration strategies and cloud deployment, especially on AWS and Vercel.
+
+   - ⚡ Fun fact: I love solving code problems like puzzles and am always looking for the most efficient way to optimize an application.
+
+<br>
+
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-martinez-banda/)

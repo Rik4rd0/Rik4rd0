@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Ricardo Martinez</a> 👋</h1>
 </div>
+<img src="https://imgur.com/a/5er8MT8">
 
 <!--
 **Rik4rd0/Rik4rd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

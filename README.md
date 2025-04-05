@@ -6,8 +6,8 @@
 
 ## About me
 
-   - 🔭 Currently working on: developing backend solutions using Go and PostgreSQL. Also exploring hexagonal architectures and best development practices.
-
+   - 🔭 I'm currently working on developing backend microservices solutions with Java, Go, and PostgreSQL. I'm also exploring hexagonal architectures and development best practices.
+ 
    - 🌱 Currently learning: to program efficiently, applying best development practices, code optimization, and clean code principles.
 
    - 👯 Looking to collaborate on: software projects requiring best practices, microservices, and agile development using methodologies such as Scrum.
